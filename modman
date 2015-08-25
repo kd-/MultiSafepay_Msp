@@ -1,0 +1,20 @@
+# app/code
+app/code/community/MultiSafepay/Msp
+
+# app/design
+app/design/adminhtml/default/default/layout/*	app/design/adminhtml/default/default/layout
+app/design/adminhtml/default/default/template/*	app/design/adminhtml/default/default/template
+app/design/frontend/base/default/template/msp
+# app/etc
+app/etc/modules/MultiSafepay_Msp.xml
+
+# lib
+lib/multisafepay
+
+# media
+media/msp
+
+# skin
+skin/adminhtml/default/default/css/*	skin/adminhtml/default/default/css
+skin/adminhtml/default/default/js/*	skin/adminhtml/default/default/js
+skin/adminhtml/default/default/images/* skin/adminhtml/default/default/images
